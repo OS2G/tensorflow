@@ -2,14 +2,7 @@
 Description: The basics of machine learning with tensorflow and basics of its usage.
 
 
-- [What is Statistical Learning?](#what-is-statistical-learning)
-- [Survey of Machine Learning Libraries](#survey-of-machine-learning-libraries)
 - [Loading Jupyter Notebooks in Colab](#loading-jupyter-notebooks-in-colab)
-
-
-## What is Statistical Learning?
-
-## Survey of Machine Learning Libraries
 
 ## Loading Jupyter Notebooks in Colab
 
@@ -33,6 +26,8 @@ Understanding the structure and performance of a network can be challenging. Ten
 ## Debugging
 
 ### Tensorflow API Documentation
+
+### TF Version Compatibility
 
 ### Communities
 
