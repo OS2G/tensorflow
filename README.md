@@ -49,4 +49,4 @@ One of the primary challenges on using Tensorflow can be debugging the various e
 The Tensorflow API is incredibly well documented and can be found at https://www.tensorflow.org/versions. You can even use Tensorflow with Javascript if you're more comfortable with web programming. If you're calling a particular function, the structure of the API call will tell you which module a method is part of. Two great modules to get familiar with are [Keras](https://www.tensorflow.org/api_docs/python/tf/keras) and [IO](https://www.tensorflow.org/api_docs/python/tf/io).
 
 ### Communities
-
+Tensorflow has an [official community](https://www.tensorflow.org/community) but there are many places you can go to learn more or ask questions. Medium has a large base of [machine learning content](https://medium.com/topic/machine-learning) written by everyone from novices to world experts.
