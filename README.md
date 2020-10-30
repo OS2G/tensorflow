@@ -16,7 +16,7 @@ Description: The basics of machine learning with tensorflow and basics of its us
 
 For the sake of simplicity, we will be loading the colab notebooks for today's talk from this Github repo, but this can be done in several different ways.
 
-First, go to colab.research.google.com . Assuming you are logged into drive, you will be prompted with a screen that gives you a choice of notebooks to load. If you're interested in learning more about the colab platform, the examples tab covers some great basics on configuring the environment. For now, click on github and enter the url github.com/OS2G as shown in the image below. It will automatically detect the repos which contain .ipynb files. Click the notebook titled "getting_into_the_flow_of_tensorflow.ipynb".
+First, go to https://colab.research.google.com . Assuming you are logged into drive, you will be prompted with a screen that gives you a choice of notebooks to load. If you're interested in learning more about the colab platform, the examples tab covers some great basics on configuring the environment. For now, click on github and enter the url github.com/OS2G as shown in the image below. It will automatically detect the repos which contain .ipynb files. Click the notebook titled "getting_into_the_flow_of_tensorflow.ipynb".
 
 ![How to Load the Notebook](newColabFromGithub.PNG)
 
