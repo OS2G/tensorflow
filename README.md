@@ -19,10 +19,10 @@ Now that we've shown how simple it is to run a basic ML task using tensorflow, l
 Many people have published a wide range of .ipynb notebooks that do just about anything you can image. Google in particular has a slew of worthwhile tutorials that demonstrate different functionalities of tensorflow that can be found at https://www.tensorflow.org/guide/ .
 
 #### Tensorboard
-Understanding the structure and performance of a network can be challenging. Tensorboard is an incredibly useful tool which makes it simple to visually see both the structure of a network and how it performs over time.
+Understanding the structure and performance of a network can be challenging. Tensorboard is an incredibly useful tool which makes it simple to visually see both the structure of a network and how it performs over time. This tutorial explains the basics and showcases its utility in visualising results: https://www.tensorflow.org/tensorboard/get_started. 
 
 #### GPU vs CPU
-
+Another valuable feature of tensorflow is its GPU support. Tensorflow is extensively optimized to run on hardware.
 ## Debugging
 
 ### Tensorflow API Documentation
