@@ -7,6 +7,10 @@ Description: The basics of machine learning with tensorflow and basics of its us
   - [Further Examples](#further-examples)
     - [Tensorboard](#tensorboard)
     - [GPU vs CPU](#gpu-vs-cpu)
+    - [Compute Resources](#compute-resources)
+- [Debugging](#debugging)
+  - [Tensorflow API Documentation](#tensorflow-api-documentation)
+  - [Communities](#communities)
 
 ## Loading Jupyter Notebooks in Colab
 
@@ -29,6 +33,14 @@ Understanding the structure and performance of a network can be challenging. Ten
 
 #### GPU vs CPU
 Another valuable feature of tensorflow is its GPU support. Tensorflow is extensively optimized to run on hardware. To see this in action, load up the Compare CPU to GPU Notebook from this repo. It's also worth noting that at the beginning of the file, we load Tensorflow Version 1.x, as this tutorial was made to run with the 1.14 API. This works when a whole script is built for the 1.0 API but other approaches are necessary for using a small piece of the 1.0 API in a file primarily using TF 2.0 . A more in-depth guide using TF 2.0 can be found [here](https://www.tensorflow.org/guide/gpu). 
+
+#### Compute Resources
+A key limitation with Machine Learning is compute resources. Colab is great for simple tasks but larger jobs will require larger amount of dedicated hardware, particularly if you want to iterate quickly. There are several paths you can take to upgrading the runtime you're using for tensorflow.
+##### Run locally
+If you have a powerful home PC with an Nvidia graphics card, you have an ideal machine to run ML workflows. [Here's a great guide]() on installing Jupyter locally.
+
+Otherwise, your best options are probably using the OS2G [HCC](hcc.unl.edu) usergroup, which is documented on the os2g webpage, or putting some money into running the workload on Amazon Web Services.
+
 ## Debugging
 
 ### Tensorflow API Documentation
