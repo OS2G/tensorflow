@@ -40,7 +40,7 @@ A key limitation with Machine Learning is compute resources. Colab is great for 
 ##### Run locally
 If you have a powerful home PC with an Nvidia graphics card, you have an ideal machine to run ML workflows. There are many guides on installing Jupyter locally.
 
-Otherwise, your best options are probably using the OS2G [HCC](hcc.unl.edu) usergroup, which is documented on the os2g webpage, or putting some money into running the workload on Amazon Web Services.
+Otherwise, your best options are probably using the OS2G [HCC](https://hcc.unl.edu) usergroup, which is documented on the os2g webpage, or putting some money into running the workload on Amazon Web Services.
 
 ## Debugging
 One of the primary challenges on using Tensorflow can be debugging the various errors you get. This is part of why it can be valuable to run your workload locally, as it becomes simpler to debug your issues. However, it is common to run into issues. Googling errors will solve the majority of issues you will encounter, but given how extensive Tensorflow is there's a good likelihood your exact bug won't be displayed. In these cases, your two best bets are the tensorflow documentation and finding people who have the skills to answer your questions.
